@@ -13,6 +13,20 @@ Data description
 
 ### Weakly labels:
 
-* **The AOI data** (vector) are collected from the OSM data. The AOI data contains more than 100 building function types (e.g., cinema, hospital, department, and market).
+* **The AOI data** (vector) are collected from the OSM data. The AOI data contains over 100 building function types (e.g., cinema, hospital, department, and market).
 
 * **The building masks** (vector) are from the building rooftop dataset containing 90 Chinese cities' building masks.
+
+![image](https://github.com/LiZhuoHong/BuildingFunctionMapping/blob/main/Visual_result_v3.png)
+
+Function type description
+-------
+The classification system includes seven typical building function types:
+* Residential (labeled value: 1)
+* Commercial (labeled value: 2)
+* Public service (labeled value: 3)
+* Public health (labeled value: 4)
+* Sport and art (labeled value: 6)
+* Industrial (labeled value: 7)
+* Unlabled buildings (labeled value: 20)
+ ![image](https://github.com/LiZhuoHong/BuildingFunctionMapping/blob/main/Streetview_v4.png)
