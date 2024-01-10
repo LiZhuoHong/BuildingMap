@@ -17,7 +17,7 @@ Data description
 
 * **The building masks** (vector) are from the building rooftop dataset containing 90 Chinese cities' building masks.
 
-![image](https://github.com/LiZhuoHong/BuildingFunctionMapping/blob/main/Visual_result_v3.png)
+![image](https://github.com/LiZhuoHong/BuildingFunctionMapping/blob/main/Visual_result_v4.png)
 
 Function type description
 -------
