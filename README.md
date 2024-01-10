@@ -11,7 +11,7 @@ Data description
 
 * The **nighttime-light data** (10 m/pixel) are from the SDGSAT-1, the world’s first scientific satellite for sustainable development goals. 
 
-### Weakly labels:
+### Weak labels:
 
 * **The AOI data** (vector) are collected from the OSM data. The AOI data contains over 100 building function types (e.g., cinema, hospital, department, and market).
 
@@ -30,3 +30,10 @@ The classification system includes seven typical building function types:
 * Industrial (labeled value: 7)
 * Unlabled buildings (labeled value: 20)
  ![image](https://github.com/LiZhuoHong/BuildingFunctionMapping/blob/main/Streetview_v4.png)
+
+Data download
+-------
+* [The **HR optical images** (1 m/pixel)](https://drive.google.com/file/d/1JyL2DEpXwP8mZzaC4q21p4gxkO8Gc_TQ/view?usp=sharing)
+* [The **building height LiDAR** (10 m/pixel)](https://drive.google.com/file/d/1FV6bDpsDrjr98XmJN4d55vTmq9DvQrb4/view?usp=sharing)
+* [**nighttime-light data** (10 m/pixel)](https://drive.google.com/file/d/1YyuxeMweYXY0uI1e4gx-DFlvIOiuCl1J/view?usp=sharing)
+
