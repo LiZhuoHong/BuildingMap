@@ -36,4 +36,4 @@ Data download
 * [The **HR optical images** (1 m/pixel)](https://drive.google.com/file/d/1JyL2DEpXwP8mZzaC4q21p4gxkO8Gc_TQ/view?usp=sharing)
 * [The **building height LiDAR** (10 m/pixel)](https://drive.google.com/file/d/1FV6bDpsDrjr98XmJN4d55vTmq9DvQrb4/view?usp=sharing)
 * [**nighttime-light data** (10 m/pixel)](https://drive.google.com/file/d/1YyuxeMweYXY0uI1e4gx-DFlvIOiuCl1J/view?usp=sharing)
-
+* [**Weak label**](https://drive.google.com/file/d/1JFFOsvRyjeAvKbfbfFhR9UdBr-sExLPU/view?usp=sharing)
