@@ -29,7 +29,7 @@ The classification system includes seven typical building function types:
 * Sport and art (labeled value: 6)
 * Industrial (labeled value: 7)
 * Unlabled buildings (labeled value: 20)
- ![image]([https://github.com/LiZhuoHong/BuildingMap/blob/main/Visual_result_v4.png](https://github.com/LiZhuoHong/BuildingMap/blob/main/Streetview_v4.png))
+ ![image](https://github.com/LiZhuoHong/BuildingMap/blob/main/Streetview_v4.png)
 
 Data download
 -------
