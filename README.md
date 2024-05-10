@@ -1,6 +1,19 @@
 # BuildingFunctionMapping
 Buildings, as fundamental man-made structures in urban environments, serve as crucial indicators for understanding various city function zones. In this study, we proposed a semi-supervised framework to identify every building's function in large-scale urban areas with multi-modality remote-sensing data. In detail, optical images, building height LiDAR, and nighttime-light data are collected to describe the morphological attributes of buildings. Then, the area of interest (AOI) and building masks from the volunteered geographic information (VGI) data are collected to form sparsely labeled samples.
 
+This work is accepted by IGARSS 2024 (oral). See you in Athens!
+
+Contact me at ashelee@whu.edu.cn
+* [**Paper**](https://arxiv.org/abs/2403.02746)
+* [**My homepage**](https://lizhuohong.github.io/lzh/)
+  
+Our previous works:
+
+* [**Paraformer (L2HNet V2)**](https://arxiv.org/abs/2403.02746): accepted by CVPR 2024 (Highlight), the hybrid CNN-ViT framework for HR land-cover mapping using LR labels.
+* [**SegLand**](https://arxiv.org/abs/2404.12721): accepted by CVPRW 2024 (Oral) and won 1st place in OpenEarthMap Challenge, discovering novel classes in land-cover mapping.
+* [**L2HNet V1**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180): accepted by ISPRS P&RS in 2022, The low-to-high network for HR land-cover mapping using LR labels.
+* [**SinoLC-1**](https://essd.copernicus.org/articles/15/4749/2023/): accepted by ESSD in 2023, the first 1-m resolution national-scale land-cover map of China.
+
 Data description
 -------
 
