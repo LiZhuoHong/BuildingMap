@@ -9,8 +9,8 @@ Contact me at ashelee@whu.edu.cn
   
 Our previous works:
 
-* [**Paraformer (L2HNet V2)**](https://arxiv.org/abs/2403.02746): accepted by CVPR 2024 (Highlight), the hybrid CNN-ViT framework for HR land-cover mapping using LR labels.[**Code**](https://github.com/LiZhuoHong/Paraformer/)
-* [**SegLand**](https://arxiv.org/abs/2404.12721): accepted by CVPRW 2024 (Oral) and won 1st place in OpenEarthMap Challenge, discovering novel classes in land-cover mapping.[**Code**](https://github.com/LiZhuoHong/SegLand)
+* [**Paraformer (L2HNet V2)**](https://arxiv.org/abs/2403.02746): accepted by **:rocket: CVPR 2024 (Highlight)**, the hybrid CNN-ViT framework for HR land-cover mapping using LR labels.[**Code**](https://github.com/LiZhuoHong/Paraformer/)
+* [**SegLand**](https://arxiv.org/abs/2404.12721): accepted by **:rocket: CVPRW 2024 (Oral)** and won 1st place in OpenEarthMap Challenge, discovering novel classes in land-cover mapping.[**Code**](https://github.com/LiZhuoHong/SegLand)
 * [**L2HNet V1**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180): accepted by ISPRS P&RS in 2022, The low-to-high network for HR land-cover mapping using LR labels.
 * [**SinoLC-1**](https://essd.copernicus.org/articles/15/4749/2023/): accepted by ESSD in 2023, the first 1-m resolution national-scale land-cover map of China.[**Data**](https://zenodo.org/record/7821068)
 
