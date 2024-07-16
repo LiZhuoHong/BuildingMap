@@ -50,3 +50,13 @@ Data download
 * [The **building height LiDAR** (10 m/pixel)](https://drive.google.com/file/d/1FV6bDpsDrjr98XmJN4d55vTmq9DvQrb4/view?usp=sharing)
 * [**nighttime-light data** (10 m/pixel)](https://drive.google.com/file/d/1YyuxeMweYXY0uI1e4gx-DFlvIOiuCl1J/view?usp=sharing)
 * [**Weak label**](https://drive.google.com/file/d/1JFFOsvRyjeAvKbfbfFhR9UdBr-sExLPU/view?usp=sharing)
+
+Citation
+-------
+   ```bash
+@article{li2024identifying,
+  title={Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data},
+  author={Li, Zhuohong and He, Wei and Li, Jiepan and Zhang, Hongyan},
+  journal={arXiv preprint arXiv:2405.05133},
+  year={2024}
+}
