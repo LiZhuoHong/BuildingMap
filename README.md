@@ -54,6 +54,15 @@ Data download
 Citation
 -------
    ```bash
+@article{li2022breaking,
+  title={Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels},
+  author={Li, Zhuohong and Zhang, Hongyan and Lu, Fangxiao and Xue, Ruoyao and Yang, Guangyi and Zhang, Liangpei},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={192},
+  pages={244--267},
+  year={2022},
+  publisher={Elsevier}
+}
 @article{li2024identifying,
   title={Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data},
   author={Li, Zhuohong and He, Wei and Li, Jiepan and Zhang, Hongyan},
