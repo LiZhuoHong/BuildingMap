@@ -54,6 +54,17 @@ Data download
 Citation
 -------
    ```bash
+@INPROCEEDINGS{10641437,
+  author={Li, Zhuohong and He, Wei and Li, Jiepan and Zhang, Hongyan},
+  booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Identifying Every Building’s Function in Large-Scale Urban areas with Multi-Modality Remote-Sensing Data}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={310-314},
+  keywords={Surveys;Open Access;Buildings;Urban areas;Government;Layout;Optical imaging;Building function;multi-modality data;semi-supervised;large-scale mapping},
+  doi={10.1109/IGARSS53475.2024.10641437}}
+
 @article{li2022breaking,
   title={Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels},
   author={Li, Zhuohong and Zhang, Hongyan and Lu, Fangxiao and Xue, Ruoyao and Yang, Guangyi and Zhang, Liangpei},
@@ -63,9 +74,4 @@ Citation
   year={2022},
   publisher={Elsevier}
 }
-@article{li2024identifying,
-  title={Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data},
-  author={Li, Zhuohong and He, Wei and Li, Jiepan and Zhang, Hongyan},
-  journal={arXiv preprint arXiv:2405.05133},
-  year={2024}
-}
+
