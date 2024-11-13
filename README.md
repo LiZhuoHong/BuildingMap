@@ -61,9 +61,8 @@ Citation
   year={2024},
   volume={},
   number={},
-  pages={310-314},
-  keywords={Surveys;Open Access;Buildings;Urban areas;Government;Layout;Optical imaging;Building function;multi-modality data;semi-supervised;large-scale mapping},
-  doi={10.1109/IGARSS53475.2024.10641437}}
+  pages={310-314}
+ }
 
 @article{li2022breaking,
   title={Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels},
