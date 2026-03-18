@@ -25,12 +25,13 @@ Our previous works:
 **Check the data (Building function map for 109 cities in China):
 [**Data**](https://zenodo.org/records/17844789)**
 
-<img src="https://github.com/LiZhuoHong/Paraformer/blob/main/Fig/Building_function-mapping-l.png" width="70%">
+<img src="https://github.com/LiZhuoHong/Paraformer/blob/main/Fig/Building_mapping_result-l2.png" width="70%">
 In our latest work, we utilize the framework to present **the nationwide building-level functional map of urban China**, processing over 69 TB of satellite data, including *1-meter Google Earth optical imagery*, *10-meter nighttime lights (SGDSAT-1)*, and *building height data (CNBH-10m)*. All data will be open access soon!
 
 The mapping process contains segmentation and object classification parts that are shown below:
 
-<img src="https://github.com/LiZhuoHong/Paraformer/blob/main/Fig/Building_mapping_result-l2.png" width="70%">
+<img src="https://github.com/LiZhuoHong/Paraformer/blob/main/Fig/Building_function-mapping-l.png" width="50%">
+
 
 ------- 
 Data description
