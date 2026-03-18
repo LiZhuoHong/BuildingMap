@@ -14,6 +14,25 @@ Our previous works:
 * [**L2HNet V1**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180): accepted by ISPRS P&RS in 2022, The low-to-high network for HR land-cover mapping using LR labels.
 * [**SinoLC-1**](https://essd.copernicus.org/articles/15/4749/2023/): accepted by ESSD in 2023, the first 1-m resolution national-scale land-cover map of China.[**Data**](https://zenodo.org/record/7821068)
 
+## News! New work accepted by Nature Communications 2026!
+-------
+**Check our paper: 
+[**SinoBF-1**](https://www.nature.com/articles/s41467-026-69589-5)**
+
+**Check the GitHub page:
+[**Code**](https://github.com/LiZhuoHong/SinoBF-1/)**
+
+**Check the data (Building function map for 109 cities in China):
+[**Data**](https://zenodo.org/records/17844789)**
+
+<img src="https://github.com/LiZhuoHong/Paraformer/blob/main/Fig/Building_function-mapping-l.png" width="70%">
+In our latest work, we utilize the framework to present **the nationwide building-level functional map of urban China**, processing over 69 TB of satellite data, including *1-meter Google Earth optical imagery*, *10-meter nighttime lights (SGDSAT-1)*, and *building height data (CNBH-10m)*. All data will be open access soon!
+
+The mapping process contains segmentation and object classification parts that are shown below:
+
+<img src="https://github.com/LiZhuoHong/Paraformer/blob/main/Fig/Building_mapping_result-l2.png" width="70%">
+
+------- 
 Data description
 -------
 
